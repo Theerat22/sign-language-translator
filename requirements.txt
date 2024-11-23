@@ -1,0 +1,12 @@
+tensorflow
+pandas
+numpy
+keras
+scikit-learn
+matplotlib
+opencv-python
+mediapipe
+plotly
+selenium
+webdriver-manager
+bs4
