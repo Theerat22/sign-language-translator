@@ -10,3 +10,6 @@ plotly
 selenium
 webdriver-manager
 bs4
+opencv-python
+tensorflow
+Pillow
