@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import cv2
 import mediapipe as mp
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 from PIL import ImageFont, ImageDraw, Image
 
 model = load_model('tsl_model.h5')
