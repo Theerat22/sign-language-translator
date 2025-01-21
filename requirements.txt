@@ -1,7 +1,7 @@
 streamlit
 numpy
 opencv-python-headless
-keras==2.15.0
-tensorflow==2.15.0
+keras
+tensorflow
 Pillow
 mediapipe
